@@ -1,0 +1,8 @@
+@font-face { font-family: rifle; src: url('../armalite.TTF'); } 
+h1 {
+	font-family: rifle;
+	text-align: center;
+}
+p {
+	text-align: center;
+}
